@@ -1,0 +1,5 @@
+Import data sets on education level, greening degree and infrastructure quality.
+Clean up the data and analyze the data for each sub-indicator.
+The weighted average method was used to calculate the overall indicators for each community.
+Rank communities according to total metrics.
+Identify neighborhoods with the highest overall metrics as the best neighborhoods in Pittsburgh.
