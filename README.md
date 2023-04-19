@@ -2,7 +2,7 @@
 Team Name: WHATS GOOD  
 Team Members: YangPan(yap29@pitt.edu, Analyze of City Trees), HaoWang(haw129@pitt.edu, Analyze of crime rates), RuohengXu(rux28@pitt.edu, Analysis of Walk Score data)  
 ## Which neighborhood in Pittsburgh is the most livable area for Pitt students？ 
-Our goal is to determine the most livable area for Pitt students by analyzing various metrics such as Walk Score, crime rate, and greening degree.  After thoroughly examining the data and drawing from our own experiences, we have concluded that North Squirrel Hill is the winner.  
+Our objective is to identify the most livable area for Pitt students by considering various factors such as Walk Score, crime rate, and greening degree.  These metrics are interconnected and crucial for students seeking a comfortable living environment.  For instance, college students prefer living close to school and amenities, with easy and convenient access to essential services.  Additionally, ensuring a safe surrounding is vital, as well as a pleasant environment characterized by a significant number of trees that contribute to cleaner air and a refreshing atmosphere.  After carefully analyzing the data and incorporating our personal experiences, we have concluded that North Squirrel Hill is the winner. 
 ## Canvas Group number: 10  
 ## Datasets Used:  
 1. Allegheny County Walk Scores： https://data.wprdc.org/dataset/allegheny-county-walk-scores. This dataset rates accessibility to nearby amenities from locations in Pittsburgh on a 0-100 scale, which considers not only walking distance and ease but also neighborhood friendliness, providing a comprehensive and well-rounded assessment.
